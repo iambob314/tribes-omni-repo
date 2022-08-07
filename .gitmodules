@@ -1,3 +1,6 @@
 [submodule "mods/Tribes_Super_RPG"]
 	path = mods/Tribes_Super_RPG
 	url = https://github.com/rjm3/Tribes_Super_RPG.git
+[submodule "tools/vol/src"]
+	path = tools/vol/src
+	url = git@github.com:iambob314/vol.git
